@@ -2,6 +2,6 @@ The BrainMRNet model is designed to classify brain MR images. The design codes o
 BreastNet model source code link: https://github.com/Goodsea/BreastNet 
 Thanks to Kutsal Baran ÖZKURT for his contributions.
 
-# Mesut TOĞAÇAR
+#Mesut TOĞAÇAR
 #firat university, image processing ,deep learning, biomedical image processing
 email:  mtogacar@firat.edu.tr  |  mtogacar@gmail.com    | togacar.mesut@hotmail.com
